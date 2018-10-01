@@ -2,6 +2,15 @@ div
 {
     border-radius: 20px;
 }
+
+img {
+    border-radius: 20px;
+    float:right;
+    height: 200px;
+    width: 200px;
+
+}
+
 #header
 {
     position: fixed;
@@ -9,6 +18,10 @@ div
     height:40px;
     width: 98%;
     background-color: cornflowerblue;
+}
+
+#about-me{
+display: block;
 }
 
 #name {
